@@ -24,4 +24,4 @@ mermaid: true
 
 你~~~
 
-![吃我一脚](https://www.hualigs.cn/image/6245cf690ea73.jpg)
+![吃我一脚](https://i0.hdslb.com/bfs/album/dba2fa4e90c3f8f3fbcedd94f0d36b30615069b7.png)
